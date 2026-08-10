@@ -150,6 +150,21 @@
     "active": 1
   },
   {
+    "id": "PR020",
+    "main_category": "3D Printers",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
+  },
+  {
     "id": "PR004",
     "main_category": "3D Printers",
     "brand": "ELEGOO",
