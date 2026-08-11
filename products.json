@@ -450,6 +450,21 @@
     "active": 1
   },
   {
+    "id": "PR017",
+    "main_category": "3D Printers",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
+  },
+  {
     "id": "PR006",
     "main_category": "3D Printers",
     "brand": "Anycubic",
