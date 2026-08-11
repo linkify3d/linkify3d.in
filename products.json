@@ -571,6 +571,21 @@
   },
   {
     "id": "PR007",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
+  },
+  {
+    "id": "PR007",
     "main_category": "3D Printers",
     "brand": "Flashforge",
     "subcategory": "",
