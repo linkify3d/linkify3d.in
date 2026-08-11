@@ -82,7 +82,7 @@
     "name": "A1 mini combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 180 × 180 × 180 mm\nMotion System: Bed-Slinger\nHot End: All-Metal\nNozzle: Stainless Steel, 0.4 mm\nOptional Nozzles: 0.2 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Build Plate Temperature: 80°C\nMax Print Speed: 500 mm/s\nMax Acceleration: 10,000 mm/s²\nMax Hot End Flow: 28 mm³/s\nBuild Plate: Textured PEI Plate\nBed Leveling: Automatic\nFilament Cutter: Yes\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU, PVA\nCamera: 1080p Monitoring Camera\nFilament Runout Sensor: Yes\nFilament Tangle Sensor: Yes\nFilament Odometry: Yes\nPower Loss Recovery: Yes\nTimelapse: Supported\nMulti-Color Printing: Yes\nAMS: AMS Lite Included\nMaximum Colors: 4 Colors\nConnectivity: Wi-Fi\nDimensions: 347 × 315 × 365 mm\nNet Weight: 5.5 kg\n\nCombo Includes: A1 mini 3D Printer + AMS Lite for automatic 4-color printing.",
     "currency": "INR",
     "price": 34599,
     "stock": "",
