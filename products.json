@@ -427,7 +427,7 @@
     "name": "K2 Pro Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 300 × 300 × 300 mm\nMax Print Speed: 600 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.05–0.3 mm\nExtruder: Dual-Gear Direct Drive\nNozzle: 0.4 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 110°C\nMax Chamber Temperature: 60°C\nBuild Plate: Flexible PEI\nBed Leveling: Full Automatic\nCalibration: AI Camera + Automatic Flow Calibration\nCamera: AI Monitoring + AI Calibration\nDisplay: 4\" Color Touchscreen\nConnectivity: Wi-Fi / Ethernet / USB\nStorage: 32GB eMMC\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, PET, ABS, ASA, PLA-CF, PA-CF, PPA-CF\nMulti-Color: CFS Compatible\nCFS Capacity: Up to 4 CFS units / 16 colors\nFilament Detection: RFID + Tangle Detection\nAir Purifier: Yes\nActive Chamber Heating: Yes\nPower Loss Recovery: Yes\nAuto Filament Relay: Yes\nSlicer: Creality Print 6.0+\nPrinter Dimensions: 445 × 477 × 573 mm\nNet Weight: 23.7 kg\nRated Power: 1300 W",
     "currency": "INR",
     "price": 129999,
     "stock": "",
