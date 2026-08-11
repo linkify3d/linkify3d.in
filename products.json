@@ -712,7 +712,7 @@
     "name": "Guider 3 ultra",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 330 × 330 × 600 mm (Single) / 300 × 330 × 600 mm (Dual)\nExtruders: 2\nMotion System: CoreXY\nMax Print Speed: 500 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.15 mm or ±0.002 mm/mm\nLayer Height: 0.05–0.4 mm\nNozzle: 0.4 mm Hardened Steel\nOptional Nozzles: 0.6 / 0.8 mm\nMax Nozzle Temperature: 350°C\nMax Bed Temperature: 120°C\nBuild Plate: Flexible Steel Plate\nBed Leveling: Fully Automatic\nEnclosure: Fully Enclosed\nAir Filtration: HEPA 13 + Activated Carbon\nCamera: Remote Monitoring + Time-Lapse\nDisplay: 7\" Touchscreen\nConnectivity: Wi-Fi / Ethernet / USB\nFilament Runout Detection: Yes\nPower Loss Recovery: Yes\nSupported Filaments: PLA, ABS, HIPS, ASA, PETG, CoPA, PLA-CF, PETG-CF, PAHT-CF, PAHT-GF, PET-CF, PET-GF, PA12-CF, PA-CF, PA-GF & more\nFilament Diameter: 1.75 mm\nSlicer: Orca-Flashforge / FlashPrint 5\nPower: 850 W Max\nPrinter Dimensions: 635 × 550 × 1070 mm\nNet Weight: 70 kg",
     "currency": "INR",
     "price": 799999,
     "stock": "",
