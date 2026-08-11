@@ -37,7 +37,7 @@
     "name": "A2L",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Bambu Lab A2L – Specifications\nTechnology: FDM / FFF\nBuild Volume: 330 × 320 × 325 mm\nMax Toolhead Speed: 500 mm/s\nMax Acceleration: 10,000 mm/s²\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 80°C\nNozzle: 0.4 mm Stainless Steel\nSupported Nozzles: 0.2 / 0.4 / 0.6 / 0.8 mm\nExtruder: Direct Drive Servo Extruder\nExtruder Gear: Hardened Steel\nLayer Height: 0.08–0.28 mm\nBuild Plate: Textured PEI Flexible Steel Plate\nAuto Calibration: Yes\nAdaptive Vibration Compensation: Yes\nFilament Runout Detection: Yes\nFilament Tangle Detection: Yes\nSpaghetti / Nozzle Blob Detection: Yes\nPower Loss Recovery: Yes\nCamera: 1080p Low-FPS Camera\nDisplay: 3.5\" Touchscreen\nConnectivity: 2.4 GHz Wi-Fi / Bambu-Bus\nStorage: 32 GB MicroSD\nCompatible Materials: PLA, PETG, TPU, PVA\nCF Materials: PLA-CF & PETG-CF with hardened steel nozzle\nMulti-Color Printing: Compatible with AMS lite\nPrinter Dimensions: 544 × 529 × 505 mm\nNet Weight: 12.8 kg\nFrame: Aluminum & Steel\nFilament Diameter: 1.75 mm\nSlicer: Bambu Studio\nOperating Systems: Windows / macOS / Linux\nPower: Up to 1000 W\nOperating Temperature: 15–30°C",
     "currency": "INR",
     "price": 46500,
     "stock": "",
