@@ -701,8 +701,8 @@
     "currency": "INR",
     "price": 84999,
     "stock": "",
-    "image_url": "",
-    "active": ""
+    "image_url": "https://www.3idea.in/assets/images/products/6223-Product-Image1.png",
+    "active": 1
   },
   {
     "id": "PR008",
