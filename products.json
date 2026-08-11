@@ -637,7 +637,7 @@
     "name": "Mono M7 Max",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA Resin 3D Printing\nLCD: 13.6\" 7K Monochrome LCD\nResolution: 6480 × 3600\nBuild Volume: 298 × 164 × 300 mm\nPrint Volume: 14.7 L\nMax Print Speed: 86 mm/h\nLayer Height: 0.01–0.15 mm\nXY Resolution: 46 × 46 μm\nLight Source: COB + Fresnel Lens\nLight Intensity: 4500 ± 10% μW/cm²\nBuild Plate: Laser-Engraved Aluminum\nLeveling: 4-Point Manual Leveling\nZ-Axis: Dual Linear Rails, 10 μm Precision\nResin Vat: Up to 1.3 L\nRelease Film: Improved ACF Film\nResin Auto-Fill: Supported\nResin Vat Heating: Dynamic Temperature Control\nPower Loss Resume: Supported\nDisplay: 4.3\" Touchscreen\nConnectivity: USB / Wi-Fi\nSlicer: Photon Workshop / CHITUBOX\nCompatible Resin: Standard, High-Speed, Water-Washable, ABS-Like & Plant-Based\nAir Purifier: Optional\nPrinter Dimensions: 425 × 362 × 652 mm\nNet Weight: 24 kg\nPower Supply: 180 W",
     "currency": "INR",
     "price": 89999,
     "stock": "",
