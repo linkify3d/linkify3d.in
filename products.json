@@ -52,7 +52,7 @@
     "name": "A2l Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 330 × 320 × 325 mm\nMotion System: Bed-Slinger\nExtruder: PMSM Closed-Loop Servo Extruder\nNozzle: 0.4 mm Stainless Steel\nSupported Nozzle Diameter: 0.2 / 0.4 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 80°C\nMax Print Speed: 500 mm/s\nMax Acceleration: 10,000 mm/s²\nBuild Plate: Flexible Steel Plate\nIncluded Plate: Textured PEI Plate\nBed Leveling: Automatic\nVibration Compensation: Adaptive Multi-Point\nGranular Dampers: 2 Integrated\nFilament Cutter: Built-in\nFilament Diameter: 1.75 mm\nSupported Materials: PLA, PETG & Other Non-Engineering Filaments\nMulti-Color Printing: Yes\nAMS: AMS Lite Included\nMaximum Colors: Up to 4 Colors with AMS Lite; up to 19 Colors with Expanded AMS Setup\nConnectivity: 2.4 GHz Wi-Fi\nAdditional Functions: Blade Cutting / Pen Plotting\nNoise Level: <49 dB Silent Mode / ~52 dB Standard Mode\nPrinter Dimensions: 544 × 529 × 505 mm\nNet Weight: 12.8 kg",
     "currency": "INR",
     "price": 62699,
     "stock": "",
