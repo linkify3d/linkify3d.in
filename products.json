@@ -360,6 +360,21 @@
     "active": 1
   },
   {
+    "id": "PR0020",
+    "main_category": "3D Printers",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
+  },
+  {
     "id": "PR005",
     "main_category": "3D Printers",
     "brand": "Creality",
