@@ -307,7 +307,7 @@
     "name": "Centurai Carbon 2 combo 3D Printer\n",
     "series": "",
     "product_type": "3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nPrint Speed: Up to 500 mm/s\nRecommended Speed: 250 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.1–0.4 mm\nExtruder: Dual-Gear Direct Drive\nNozzle: Brass-Hardened Steel\nNozzle Temperature: Up to 350°C\nHeatbed Temperature: Up to 110°C\nBuild Plate: Flexible PEI Spring Steel\nBed Leveling: Automatic\nMulti-Color: 4-Color Printing with CANVAS\nRFID Filament Detection: Yes\nAuto Refill: Yes\nAuto Tangle Detection: Yes\nAir Filtration: HEPA + Coconut-Shell Activated Carbon\nCamera: Built-in\nDisplay: 5\" Capacitive Touchscreen\nConnectivity: Wi-Fi / USB\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU, PLA-CF, ABS, ASA, PC, PA & more\nSlicer: ElegooSlicer / OrcaSlicer / Cura\nMachine Dimensions: 500 × 480 × 586 mm\nNet Weight: 15.5 kg\nPower Input: 100–240V AC, 50/60Hz\nRated Power: 1100W @ 220V / 350W @ 110V",
     "currency": "INR",
     "price": 51999,
     "stock": "",
