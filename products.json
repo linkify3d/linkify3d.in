@@ -900,6 +900,21 @@
     "active": 1
   },
   {
+    "id": "PR061",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
+  },
+  {
     "id": "FL001",
     "main_category": "Filaments",
     "brand": "Bambu Lab",
