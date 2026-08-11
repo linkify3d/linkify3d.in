@@ -937,7 +937,7 @@
     "name": "Sonic mini 4k",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA / Resin 3D Printing\nLCD: 6.1\" 4K Monochrome LCD\nResolution: 3840 × 2160\nBuild Volume: 134 × 75 × 130 mm\nXY Resolution: 35 μm\nLayer Thickness: 0.01–0.30 mm\nLight Source: 405 nm ParaLED® Matrix 2.0\nBuild Plate: Aluminum Build Plate\nZ-Axis: Single Linear Rail\nRelease Film: FEP Film\nDisplay: 2.8\" Touchscreen\nConnectivity: USB\nSlicer: CHITUBOX V1.6.5+\nFile Format: CTB\nResin: 405 nm UV Resin\nPrinter Dimensions: 249 × 249 × 327 mm\nNet Weight: Approx. 5 kg\nPower Requirement: AC 100–240V, 50/60Hz",
     "currency": "INR",
     "price": 20000,
     "stock": "",
