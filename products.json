@@ -727,7 +727,7 @@
     "name": "AD5X",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 220 × 220 × 220 mm\nExtruder: Single\nMulti-Color: 4-Color Printing with IFS\nMax Print Speed: 300 mm/s\nMax Travel Speed: 600 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.1–0.4 mm\nNozzle: 0.4 mm\nOptional Nozzles: 0.25 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Bed Temperature: 110°C\nBuild Plate: PEI Flexible Steel Sheet\nBed Leveling: One-Click Automatic\nFilament Detection: Yes\nPower Loss Recovery: Yes\nSupported Filaments: PLA, PLA Pro, HS PLA, PLA Matte, PLA Silk, PETG, PETG Pro, HS PETG, TPU, ASA, PLA-CF, PETG-CF\nFilament Diameter: 1.75 mm\nDisplay: 4.3\" Color Touchscreen\nConnectivity: Wi-Fi / Ethernet / USB\nSlicer: Orca-Flashforge / OrcaSlicer\nRemote Monitoring: Expandable with Camera\nChamber Lighting: Expandable\nPower: 650 W\nDimensions: 363 × 402 × 448 mm\nNet Weight: 11.4 kg",
     "currency": "INR",
     "price": 38999,
     "stock": "",
