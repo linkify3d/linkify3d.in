@@ -577,7 +577,7 @@
     "name": "X Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 260 × 260 × 260 mm\nMax Print Speed: 600 mm/s\nRecommended Speed: 300 mm/s\nMax Acceleration: 20,000 mm/s²\nNozzle Temperature: Up to 300°C\nNozzle: 0.4 mm Hardened Steel\nOptional Nozzles: 0.25 / 0.6 / 0.8 mm\nHeatbed Temperature: Up to 100°C\nBuild Plate: PEI Spring Steel\nExtruder: Direct Drive\nBed Leveling: LeviQ 3.0 Auto-Leveling\nLayer Height: 0.08–0.28 mm\nMulti-Color Printing: Up to 19 colors\nCombo System: ACE 2 Pro\nFilament Slots: 4\nActive Filament Drying: Up to 65°C\nFilament Detection: Yes\nTangle Detection: Yes\nAI Spaghetti Detection: Yes\nPower Loss Recovery: Yes\nCamera: 720p HD\nConnectivity: Wi-Fi / USB / Anycubic App\nNoise Level: ≤48 dB\nSupported Filaments: PLA, PETG, TPU, PVA, PLA-CF, PETG-CF, ASA\nFilament Diameter: 1.75 mm\nPrinter Dimensions: 455.4 × 445.3 × 461.3 mm\nPrinter Weight: Approx. 9.5 kg\nACE 2 Pro Weight: Approx. 3.7 kg",
     "currency": "INR",
     "price": 66999,
     "stock": "",
