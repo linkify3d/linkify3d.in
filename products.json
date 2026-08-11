@@ -442,7 +442,7 @@
     "name": "K2 Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 260 × 260 × 260 mm\nMax Print Speed: 600 mm/s\nMax Acceleration: 20,000 mm/s²\nPrinting Accuracy: ±0.1 mm\nLayer Height: 0.05–0.3 mm\nExtruder: Dual-Gear Direct Drive\nNozzle Diameter: 0.4 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 100°C\nBuild Plate: Flexible PEI\nBed Leveling: Automatic\nChamber: Enclosed\nAI Camera: Yes\nDisplay: 4\" Color Touchscreen\nConnectivity: Wi-Fi / USB\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, PET, ABS, PLA-CF\nMulti-Color: CFS Compatible\nAir Purification: Yes\nFilament Runout Detection: Yes\nPower Loss Recovery: Yes\nInput Shaping: Yes\nLED Lighting: Yes\nStorage: 8GB eMMC\nFile Format: G-Code / 3MF\nPrinter Dimensions: 404 × 436 × 545 mm\nCombo Dimensions: 404 × 436 × 821 mm\nNet Weight: 18.3 kg\nRated Power: 1350W @ 220V / 450W @ 110V",
     "currency": "INR",
     "price": 62999,
     "stock": "",
