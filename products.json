@@ -292,7 +292,7 @@
     "name": "Centurai Carbon 3D Printer\r",
     "series": "",
     "product_type": "3D Printer",
-    "description": "",
+    "description": "Technology: FDM\nBuild Volume: 256 × 256 × 256 mm\nPrint Speed: Up to 500 mm/s\nAcceleration: Up to 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.1–0.4 mm\nExtruder: Dual-Gear Direct Drive\nNozzle: 0.4 mm Brass-Hardened Steel\nMax Nozzle Temperature: 320°C\nMax Bed Temperature: 110°C\nBuild Plate: Dual-Sided PEI Spring Steel\nBed Leveling: 121-Point Automatic\nFrame: Integrated Die-Cast Aluminum\nMax Flow Rate: 32 mm³/s\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU, ABS, ASA, PET, PC, PA, CF & GF Reinforced Filaments\nEnclosure: Fully Enclosed\nCamera: Built-in Chamber Camera\nFilament Runout Sensor: Yes\nPower Loss Recovery: Yes\nConnectivity: Wi-Fi / USB\nDisplay: Touchscreen\nLighting: Built-in LED\nMotion System: CoreXY\nDimensions: Approx. 404 × 476 × 529 mm",
     "currency": "INR",
     "price": 38500,
     "stock": "",
