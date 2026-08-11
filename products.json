@@ -877,7 +877,7 @@
     "name": "Sonic Mighty revo 12k",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA / Resin 3D Printing\nLCD: 10.1\" 12K Monochrome LCD\nResolution: 11,520 × 5,120\nBuild Volume: 218 × 123 × 235 mm\nXY Resolution: 19 × 24 μm\nLayer Thickness: 0.01–0.30 mm\nPrint Speed: Average 400 layers/hour\nLight Source: Linear Projection LED Module\nBuild Plate: Frosted / Laser-Engraved Build Plate\nZ-Axis: Dual Linear Rails + Lead Screw\nRelease Film: nFEP Film\nDisplay: 5\" Touch Panel\nConnectivity: USB / Ethernet / Wi-Fi\nSlicer: CHITUBOX V1.9.4+\nFile Format: CTB / PRZ\nOperating System: Phrozen OS\nStorage: Built-in Memory\nPrinter Dimensions: 337 × 337 × 516 mm\nNet Weight: 14.3 kg\nPower Requirement: DC 24V / 5A\nSystem Power: 120W",
     "currency": "INR",
     "price": 65000,
     "stock": "",
