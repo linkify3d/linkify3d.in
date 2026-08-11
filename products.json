@@ -832,7 +832,7 @@
     "name": "Sonic Mega 8k v2",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA / Resin 3D Printing\nBuild Volume: 330 × 185 × 300 mm\nLCD: 15\" 8K Monochrome LCD\nXY Resolution: 43 μm\nLayer Thickness: 0.01–0.30 mm\nPrint Speed: Up to 400 layers/hour\nLight Source: 405 nm ParaLED® Matrix 3.0\nBuild Plate: Pre-Calibrated\nZ-Axis: Dual Linear Rails + Ball Screw\nRelease Film: ACF Film\nDisplay: 3.5\" Touch Panel\nConnectivity: USB\nSlicer: CHITUBOX / Compatible Slicers\nFile Format: CTB / PRZ\nResin: 405 nm UV Resin\nPrinter Dimensions: 472 × 380 × 566 mm\nNet Weight: 26 kg\nPower: 100–240V AC, 50/60Hz\nMaximum Power: 240W",
     "currency": "INR",
     "price": 323388,
     "stock": "",
