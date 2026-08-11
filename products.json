@@ -742,7 +742,7 @@
     "name": "5M Pro",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 220 × 220 × 220 mm\nExtruder: Direct Drive, Single\nMax Print Speed: 300 mm/s\nMax Travel Speed: 600 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.1–0.4 mm\nNozzle: 0.4 mm\nOptional Nozzles: 0.25 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 280°C\nMax Bed Temperature: 110°C\nBuild Plate: Removable Flexible PEI Steel Plate\nBed Leveling: One-Click Automatic\nEnclosure: Fully Enclosed\nAir Filtration: HEPA + Activated Carbon\nCamera: Remote Monitoring + Time-Lapse\nDisplay: 4.3\" Touchscreen\nConnectivity: Wi-Fi / Ethernet / USB\nFilament Detection: Yes\nPower Loss Recovery: Yes\nAutomatic Shutdown: Yes\nSupported Filaments: PLA, PETG, ABS, ASA, TPU, PLA-CF, PETG-CF\nFilament Diameter: 1.75 mm\nSlicer: Orca-Flashforge / OrcaSlicer / FlashPrint 5\nNoise: 50 dB Low-Noise / 55 dB Standard\nPower: 350 W\nDimensions: 380 × 400 × 453 mm\nNet Weight: 14.6 kg",
     "currency": "INR",
     "price": 54999,
     "stock": "",
