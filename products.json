@@ -202,7 +202,7 @@
     "name": "X2d Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 256 × 256 × 260 mm\nDual-Nozzle Print Volume: 235.5 × 256 × 256 mm\nExtruder: Dual-Nozzle System\nMain Extruder: Direct Drive\nAuxiliary Extruder: Bowden Drive\nNozzle: Hardened Steel, 0.4 mm\nOptional Nozzles: 0.2 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 120°C\nMax Chamber Temperature: 65°C\nMax Print Speed: 1000 mm/s\nMax Acceleration: 20,000 mm/s²\nLayer Height: 0.08–0.28 mm\nHotend Flow Rate: Up to 40 mm³/s\nBuild Plate: Flexible Steel Plate\nIncluded Plate: Textured PEI\nBed Leveling: Automatic\nFilament Cutter: Built-in\nFilament Diameter: 1.75 mm\nSupported Materials: PLA, PETG, TPU, ABS, ASA, PC, PA, PVA, CF/GF Reinforced Materials\nMulti-Color Printing: Yes\nAMS: AMS 2 Pro Included\nAMS Capacity: 4 Filaments\nFilament Drying: Active Drying with AMS 2 Pro\nAI Detection: Full Filament Path AI Detection\nCamera: AI Monitoring + Toolhead Camera\nFilament Runout Detection: Yes\nFilament Tangle Detection: Yes\nPower Loss Recovery: Yes\nAir Filtration: HEPA + Activated Carbon\nDisplay: 5\" Touchscreen\nConnectivity: Wi-Fi / USB\nSlicer: Bambu Studio\nPrinter Dimensions: 392 × 406 × 478 mm\nNet Weight: Approx. 16.3 kg\n\nCombo Includes: X2D 3D Printer + AMS 2 Pro for multi-color/multi-material printing and active filament drying. The X2D uses a dual-nozzle system, allowing separate materials for the main model and support material.",
     "currency": "INR",
     "price": 126499,
     "stock": "",
