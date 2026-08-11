@@ -352,7 +352,7 @@
     "name": "Saturn 4",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA Resin 3D Printing\nLCD: 10\" 12K Monochrome LCD\nResolution: 11,520 × 5,120\nXY Resolution: 19 × 24 μm\nBuild Volume: 218.88 × 122.88 × 220 mm\nPrint Speed: Up to 70 mm/h\nLayer Thickness: 0.01–0.2 mm\nZ-Axis Accuracy: 0.02 mm\nLight Source: COB + Fresnel Lens, 405 nm\nBuild Plate: Laser-Engraved\nLeveling: Automatic Leveling\nScreen: 3.5\" Resistive Touchscreen\nConnectivity: USB\nSlicer: CHITUBOX / Voxeldance Tango\nSystem: EL3D-3.0.1\nLCD Protection: 9H Tempered Glass\nSensors: Mechanical Safety Sensors\nAir Purifier: Compatible with Mars Mate\nPower: 100–240V, 50/60Hz\nDimensions: 327.4 × 329.2 × 548 mm",
     "currency": "INR",
     "price": 44999,
     "stock": "",
