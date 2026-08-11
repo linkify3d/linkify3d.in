@@ -926,8 +926,8 @@
     "currency": "INR",
     "price": 35000,
     "stock": "",
-    "image_url": "",
-    "active": ""
+    "image_url": "https://static.wixstatic.com/media/a1e158_71aa11397ba4405e8e5f2bc2828501f0~mv2.webp/v1/fit/w_700,h_800,q_90,enc_avif,quality_auto/a1e158_71aa11397ba4405e8e5f2bc2828501f0~mv2.webp",
+    "active": 1
   },
   {
     "id": "FL001",
