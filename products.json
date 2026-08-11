@@ -922,7 +922,7 @@
     "name": "Sonic mini 8ks ",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA / Resin 3D Printing\nLCD: 7.1\" 8K Monochrome LCD\nResolution: 7500 × 3240\nBuild Volume: 165 × 72 × 170 mm\nXY Resolution: 22 μm\nLayer Thickness: 0.01–0.30 mm\nPrint Speed: Up to 80 mm/h\nLight Source: 405 nm ParaLED® Matrix 2.0\nBuild Plate: Pre-Calibrated Build Plate\nZ-Axis: Single Linear Rail + Z-Rod\nRelease Film: ACF Film\nDisplay: 3.5\" Touch Panel\nConnectivity: USB\nFile Format: PRZ\nSlicer: CHITUBOX / Lychee / Voxeldance Tango\nResin: 405 nm UV Resin\nPrinter Dimensions: 29 × 29 × 43 cm\nNet Weight: 8 kg\nPower Requirement: AC 100–240V, 50/60Hz\nSystem Power: 120W",
     "currency": "INR",
     "price": 35000,
     "stock": "",
