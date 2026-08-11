@@ -679,7 +679,7 @@
     "main_category": "3D Printers",
     "brand": "Flashforge",
     "subcategory": "Creator",
-    "name": "5 Pro ",
+    "name": "Creator 5 Pro ",
     "series": "",
     "product_type": "FDM 3D Printer",
     "description": "Technology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nToolheads: 4 Independent Toolheads\nMax Print Speed: 300 mm/s\nMax Travel Speed: 600 mm/s\nMax Acceleration: 30,000 mm/s²\nLayer Height: 0.1–0.4 mm\nMax Nozzle Temperature: 320°C\nMax Bed Temperature: 120°C\nNozzle: 0.4 mm Standard\nOptional Nozzles: 0.25 / 0.6 / 0.8 mm\nMax Flow Rate: 32 mm³/s\nBuild Plate: Textured PEI Flexible Steel\nBed Leveling: Automatic\nExtruder: 4 Independent Extruders\nActive Chamber Heating: Up to 65°C\nEnclosure: Fully Enclosed\nAir Filtration: HEPA13 + Activated Carbon\nCamera: 720p Full HD, 30 FPS\nDisplay: 4\" Full-Color Touchscreen\nConnectivity: Wi-Fi / USB\nWi-Fi: 2.4 GHz / 5 GHz\nFilament Detection: Run-out & Tangle Detection\nPower Loss Recovery: Yes\nSupported Filaments: PLA, PETG, TPU, ABS, ASA, PC, PA, CF/GF Reinforced Materials & more\nSlicer: Orca-Flashforge / OrcaSlicer\nPrinter Dimensions: 441 × 411 × 460 mm\nDimensions with Holders: 520 × 443 × 710 mm\nNet Weight: 18 kg\nRated Power: 1200 W",
