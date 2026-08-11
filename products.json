@@ -697,7 +697,7 @@
     "name": "Creator 5 ",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nExtruders: 4 Independent Toolheads\nMax Print Speed: 300 mm/s\nMax Travel Speed: 600 mm/s\nMax Acceleration: 30,000 mm/s²\nLayer Height: 0.1–0.4 mm\nMax Nozzle Temperature: 320°C\nMax Bed Temperature: 120°C\nNozzle: 0.4 mm Standard\nOptional Nozzles: 0.25 / 0.6 / 0.8 mm\nMax Flow Rate: 32 mm³/s\nBuild Plate: Textured PEI Flexible Steel\nBed Leveling: Automatic\nDynamic Flow Calibration: Yes\nCamera: 1280 × 720 @ 30 FPS\nDisplay: 4\" Full-Color Touchscreen\nConnectivity: Wi-Fi / USB\nWi-Fi: 2.4 GHz / 5 GHz\nFilament Detection: Run-out Sensor\nPower Loss Recovery: Yes\nSupported Filaments: PLA, PETG, TPU, PLA-CF, PETG-CF, PVA, BVOH, Silk\nCompatible Materials: ABS, ASA, PA-CF, PET-CF, PAHT-CF, PPA-CF, PPS-CF & more\nSlicer: Flash Studio / Orca-Flashforge / OrcaSlicer\nPrinter Dimensions: 436 × 432 × 480 mm\nDimensions with Holders: 520 × 443 × 710 mm\nNet Weight: Approx. 14 kg\nRated Power: 700 W",
     "currency": "INR",
     "price": 84999,
     "stock": "",
