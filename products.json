@@ -217,7 +217,7 @@
     "name": "H2D ",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Bambu Lab H2D – Specifications\nTechnology: FDM / FFF\nBuild Volume: 325 × 320 × 325 mm (Single Nozzle)\nDual-Nozzle Intersection: 300 × 320 × 320 mm\nCombined Dual-Nozzle Volume: 350 × 320 × 320 mm\nMax Toolhead Speed: 1000 mm/s\nMax Acceleration: 20,000 mm/s²\nMax Nozzle Temperature: 350°C\nMax Heatbed Temperature: 120°C\nMax Chamber Temperature: 65°C\nNozzle: 0.4 mm Hardened Steel\nSupported Nozzles: 0.2 / 0.4 / 0.6 / 0.8 mm\nMax Flow Rate: 40 mm³/s Standard / 65 mm³/s High-Flow\nBuild Plate: Textured PEI / Smooth PEI\nExtruder: High-Precision Servo Motor\nCalibration: Automatic\nEnclosure: Fully Enclosed\nAir Filtration: G3 + H12 HEPA + Activated Carbon\nCamera: 1080p Live Camera + Nozzle Camera\nDisplay: 5\" Touchscreen\nConnectivity: Wi-Fi / USB\nFilament: PLA, PETG, TPU, ABS, ASA, PC, PA, PET, PVA, BVOH & more\nFiber Materials: CF/GF reinforced materials supported\nFilament Diameter: 1.75 mm\nDimensions: 492 × 514 × 626 mm\nWeight: 31 kg\nLaser: Optional 10W / 40W Laser Module\nDigital Cutting: Supported",
     "currency": "INR",
     "price": 193999,
     "stock": "",
