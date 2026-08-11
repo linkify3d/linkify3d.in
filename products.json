@@ -847,7 +847,7 @@
     "name": "Sonic Mighty revo 16k",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA / Resin 3D Printing\nLCD: 10.1\" 16K Monochrome LCD\nResolution: 15,120 × 6,230\nXY Resolution: 14 × 19 μm\nBuild Volume: 211.68 × 118.37 × 235 mm\nPrint Speed: Up to 676 layers/hour\nLayer Thickness: 0.01–0.2 mm\nLight Source: 405 nm COB + Fresnel Lens\nLight Intensity: 3900–5900 μW/cm²\nBuild Plate: Pre-Calibrated\nLeveling: Assisted Leveling\nZ-Axis: Dual Linear Rails + Ball Screw\nRelease Film: nFEP\nChamber Heating: 30°C\nFailure Detection: Dual Smart Failure Detection\nDisplay: 5\" Touchscreen\nConnectivity: USB / Wi-Fi / Ethernet\nSlicer: CHITUBOX\nPrinter Dimensions: 353 × 345 × 517 mm\nWeight: 18 kg\nPower: AC 100–240V, 50/60Hz\nMaximum Power: 240W",
     "currency": "INR",
     "price": 94397,
     "stock": "",
