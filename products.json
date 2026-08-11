@@ -532,7 +532,7 @@
     "name": "SE Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 220 × 215 × 245 mm\nMax Print Speed: 500 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.1–0.35 mm\nExtruder: Dual-Gear Direct Drive\nNozzle Diameter: 0.4 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 100°C\nBuild Plate: Epoxy Resin\nBed Leveling: Full Automatic\nDisplay: 3.97\" Color Touchscreen\nConnectivity: Wi-Fi / USB / Creality Cloud\nStorage: 8 GB eMMC\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU 95A, PLA-CF\nMulti-Color: CFS Compatible\nCFS Capacity: Up to 4 CFS units / 16 colors\nFilament Detection: Yes\nAuto Filament Relay: Yes\nInput Shaping: Yes\nPower Loss Recovery: Yes\nLighting Kit: Yes\nAI Camera: Not included\nSlicer: Creality Print 6.0+\nPrinter Dimensions: 355 × 355 × 482 mm\nCFS Dimensions: 379 × 314 × 276 mm\nPrinter Weight: 10.58 kg\nCFS Weight: 4.56 kg\nRated Power: 350 W",
     "currency": "INR",
     "price": 43199,
     "stock": "",
