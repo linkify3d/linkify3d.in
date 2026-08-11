@@ -892,7 +892,7 @@
     "name": "Sonic Mighty revo 8k",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA / Resin 3D Printing\nBuild Volume: 223 × 126 × 235 mm\nLCD: 10.1\" 8K Monochrome LCD\nXY Resolution: 28 μm\nPrint Speed: Up to 70 mm/h / 400 layers/h\nLayer Thickness: 0.01–0.30 mm\nLight Source: Linear Projection LED Module\nBuild Plate: Pre-Calibrated Build Plate\nZ-Axis: Dual Linear Rails + Lead Screw\nRelease Film: nFEP Film\nDisplay: 5\" Touch Panel\nConnectivity: USB / Ethernet / Wi-Fi\nSlicer: CHITUBOX V1.9.4+\nFile Format: CTB / PRZ\nPrinter Dimensions: 337 × 337 × 516 mm\nNet Weight: 14.3 kg\nPower Supply: AC 100–240V, 50/60Hz\nMaximum Power: 240W",
     "currency": "INR",
     "price": 60000,
     "stock": "",
