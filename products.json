@@ -817,7 +817,7 @@
     "name": "Sonic Mega 8k s",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: LCD / MSLA Resin\nBuild Volume: 330 × 185 × 300 mm\nLCD: 15\" 8K Monochrome LCD\nResolution: 8K\nXY Resolution: 43 μm\nLayer Height: 0.01–0.30 mm\nPrint Speed: Up to 600 layers/hour\nLight Source: 405 nm ParaLED® Matrix 3.0\nBuild Plate: Pre-Calibrated Build Plate\nZ-Axis: Dual Linear Rails + Ball Screw\nRelease Film: ACF Film\nDisplay: 3.5\" Touchscreen\nConnectivity: USB\nSlicer: CHITUBOX 1.9.6+ / Other Compatible Slicers\nFile Format: .CTB / .PRZ\nResin: 405 nm UV Resin\nPrinter Dimensions: 472 × 380 × 566 mm\nNet Weight: 26 kg\nPower: 100–240V AC, 50/60Hz\nMax Power Consumption: 240W",
     "currency": "INR",
     "price": 150000,
     "stock": "",
