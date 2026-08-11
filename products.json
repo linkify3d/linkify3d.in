@@ -547,7 +547,7 @@
     "name": "MAGE S 14k",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: LCD MSLA Resin\nBuild Volume: 223 × 126 × 230 mm\nLCD: 10.1\" 14K Monochrome LCD\nResolution: 13,320 × 5,120\nXY Resolution: 16.8 × 24.8 μm\nPrint Speed: Up to 150 mm/h\nLayer Height: 0.05–0.2 mm\nLight Source: Integral Light Source 3.0\nLight Uniformity: >90%\nWavelength: 405 nm\nBuild Plate: Laser-Carved Aluminum Alloy\nRelease Film: High-Speed Pictor Film / FEP\nAir Purifier: Built-in\nDisplay: 4.3\" Touchscreen\nConnectivity: Wi-Fi / Ethernet / USB\nResin: 405 nm Resin\nSlicer: HALOT BOX / CHITUBOX / Tango\nFile Format: STL / OBJ\nSmart Resin Pump: Optional\nPrinter Dimensions: 333 × 270 × 608 mm\nNet Weight: 13.13 kg\nRated Power: 100 W\nNoise Level: 49 dB",
     "currency": "INR",
     "price": 52299,
     "stock": "",
