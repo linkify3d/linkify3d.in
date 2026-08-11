@@ -397,7 +397,7 @@
     "name": "Orangestorm giga ",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM\nBuild Volume: 800 × 800 × 1000 mm\nPrint Precision: ±0.1 mm\nMax Print Speed: 300 mm/s\nRecommended Speed: 150 mm/s\nMax Acceleration: 5,000 mm/s²\nNozzle Temperature: Up to 300°C\nHeatbed Temperature: Up to 100°C\nIncluded Nozzle: 0.6 mm\nOptional Nozzles: 0.4 / 0.8 / 1.0 mm\nExtruder: Dual-Gear Direct Drive\nBuild Plate: 4 × Independent PEI Magnetic Plates\nPEI Area: 820 × 820 mm\nBed Leveling: Automatic\nMulti-Nozzle Printing: Up to 4 Printheads\nFilament: PLA / PETG / TPU\nFilament Detection: Yes\nPower Loss Recovery: Yes\nConnectivity: Wi-Fi / LAN / USB\nFile Format: STL / OBJ\nFrame: CNC-Machined Aluminum Extrusion\nRated Power: 1530W (Single Head)\nMachine Dimensions: 1224 × 1164 × 1425 mm\nNet Weight: 104 kg\nGross Weight: 145 kg",
     "currency": "INR",
     "price": 299999,
     "stock": "",
