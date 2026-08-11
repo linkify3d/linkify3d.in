@@ -502,7 +502,7 @@
     "name": "5 MAX ",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 400 × 400 × 400 mm\nMax Print Speed: 700 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.05–0.3 mm\nExtruder: Direct Drive\nNozzle: 0.4 mm\nCompatible Nozzles: 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 100°C\nBuild Plate: Flexible Epoxy Build Plate\nBed Leveling: 64-Point Automatic Leveling\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU95A, ABS, ASA, PLA-CF, PA, PLA-Silk\nConnectivity: Wi-Fi / USB\nDisplay: 4.3\" Color Touchscreen\nFilament Runout Sensor: Yes\nPower Loss Recovery: Yes\nInput Shaping: Yes\nLighting: Built-in Lighting Kit\nCamera: Optional\nRated Power: 1250 W\nInput Voltage: 100–240V AC, 50/60Hz\nPrinter Dimensions: 649 × 721 × 850 mm\nNet Weight: ≤25.9 kg",
     "currency": "INR",
     "price": 74999,
     "stock": "",
