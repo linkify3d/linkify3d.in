@@ -757,7 +757,7 @@
     "name": "creator 4 s ",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FFF / FDM\nMotion System: IDEX (Independent Dual Extruders)\nBuild Volume: 400 × 350 × 500 mm\nPrint Modes: Dual Color / Mirror / Duplicate / Support\nLayer Height: 0.05–0.4 mm\nExtruder: 2 × Independent Direct-Drive\nHS Extruder Temperature: Up to 360°C\nHT Extruder Temperature: Up to 320°C\nNozzle: 0.4 mm\nOptional Nozzles: 0.6 / 0.8 mm\nMax Print Speed: 150 mm/s (HS) / 200 mm/s (HT)\nMax Bed Temperature: 130°C\nMax Chamber Temperature: 65°C\nBuild Plate: Heated Platform\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, ABS, PETG, PC, PA, ASA, PP, PVA, HIPS, TPU, TPE, PA-CF, PETG-CF, PLA-CF, PET-CF, PPS-CF & more\nConnectivity: Wi-Fi / Ethernet / USB\nDisplay: 7\" Full-Color Touchscreen\nSlicer: FlashPrint\nPrinter Dimensions: 840 × 675 × 1050 mm\nNet Weight: 90 kg\nRated Power: 1500 W",
     "currency": "INR",
     "price": 981299,
     "stock": "",
