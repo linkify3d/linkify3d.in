@@ -641,8 +641,8 @@
     "currency": "INR",
     "price": 89999,
     "stock": "",
-    "image_url": "",
-    "active": ""
+    "image_url": "https://wol3d.blr1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/30175601/11-2.jpg",
+    "active": 1
   },
   {
     "id": "PR007",
