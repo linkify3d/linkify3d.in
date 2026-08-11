@@ -457,7 +457,7 @@
     "name": "K1C ",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 220 × 220 × 250 mm\nMax Print Speed: 600 mm/s\nMax Acceleration: 20,000 mm/s²\nLayer Height: 0.1–0.35 mm\nPrint Accuracy: ±0.1 mm\nExtruder: Clog-Free Direct Drive\nNozzle Diameter: 0.4 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 100°C\nBuild Plate: PEI Flexible Build Plate\nBed Leveling: Automatic\nAI Camera: Yes\nFilament Runout Detection: Yes\nPower Loss Recovery: Yes\nAir Purifier: Yes\nConnectivity: Wi-Fi / USB\nDisplay: 4.3\" Color Touchscreen\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU, ABS, ASA, PC, PA, PLA-CF, PA-CF, PET-CF\nEnclosure: Fully Enclosed\nSlicer: Creality Print / Cura\nPrinter Dimensions: 355 × 355 × 482 mm\nNet Weight: 12.4 kg\nRated Power: 350 W",
     "currency": "INR",
     "price": 46799,
     "stock": "",
