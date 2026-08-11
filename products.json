@@ -337,7 +337,7 @@
     "name": "Saturn 3 12k",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA Resin\nLCD: 10\" 12K Monochrome LCD\nResolution: 11,520 × 5,120\nXY Resolution: 19 × 24 μm\nBuild Volume: 218.88 × 122.88 × 260 mm\nMax Print Speed: 150 mm/h\nLayer Thickness: 0.01–0.2 mm\nZ-Axis Accuracy: 0.01 mm\nLight Source: COB + Refractive Light Source, 405 nm\nBuild Plate: Laser-Engraved\nLeveling: 4-Point Leveling System\nScreen: 4\" Capacitive Touchscreen\nConnectivity: Wi-Fi / USB\nSystem: EL3D-4.0 Linux OS\nSlicer: CHITUBOX / Voxeldance Tango\nResin: Standard, Water-Washable, ABS-Like, Plant-Based & more\nAir Purifier: Plug-in Air Purifier\nPower: 100–240V, 50/60Hz, 24V 7.5A\nDimensions: 305.9 × 273 × 562.5 mm\nNet Weight: 12 kg",
     "currency": "INR",
     "price": 34999,
     "stock": "",
