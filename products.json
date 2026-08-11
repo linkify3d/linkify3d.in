@@ -277,7 +277,7 @@
     "name": "4 plus ",
     "series": "",
     "product_type": "3D Printer",
-    "description": "",
+    "description": "Technology: FDM\nBuild Volume: 320 × 320 × 385 mm\nMax Speed: 500 mm/s\nMax Acceleration: 12,000 mm/s²\nNozzle Temperature: Up to 300°C\nHeatbed Temperature: Up to 100°C\nExtruder: Direct Drive Dual-Gear\nNozzle: 0.4 mm High-Flow\nBuild Plate: Textured PEI Spring Steel\nBed Leveling: Automatic\nFirmware: Klipper\nConnectivity: Wi-Fi / USB / WLAN\nFilament Detection: Yes\nPower Loss Recovery: Yes\nSupported Filaments: PLA, TPU, PETG, ABS, ASA, Nylon\nFrame: CNC-Machined Aluminum Extrusion\nMachine Dimensions: 578 × 533 × 640 mm\nNet Weight: 14.4 kg\nGross Weight: 16.65 kg",
     "currency": "INR",
     "price": 32000,
     "stock": "",
