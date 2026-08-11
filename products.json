@@ -667,7 +667,7 @@
     "name": "P1",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA Resin 3D Printing\nLCD: 10.1\" 14K Monochrome LCD\nResolution: 13,312 × 5,120\nBuild Volume: 223 × 126 × 230 mm\nPrint Volume: 6.5 L\nPrint Speed: 25–35 mm/h\nLayer Height: 0.02–0.15 mm\nXY Resolution: 16.8 × 24.8 μm\nLight Source: LighTurbo 4.0 COB + Fresnel Lens\nLight Intensity: 5,000 μW/cm²\nBuild Plate: Precision Steel Platform\nZ-Axis: Dual Linear Rails + Ball Screw\nLeveling: Smart Leveling 3.0\nRelease Film: NFEP\nResin Vat: Up to 1 L\nResin Vat Heating: Dynamic Temperature Control, up to 40°C\nResin Compatibility: Standard, Flexible, Transparent, High-Viscosity Resins up to 8,000 cps\nDual-Color / Dual-Material: Supported with optional Dual Material Print Kit\nWave Release Technology: Yes\nPower Loss Recovery: Yes\nDisplay: 4.5\" Resistive Touchscreen\nConnectivity: Wi-Fi / USB\nSlicer: Photon Workshop / CHITUBOX / Lychee / Tango\nAir Purifier: Optional AirPure 2.0\nPower: 215 W\nDimensions: 366 × 338 × 539 mm\nNet Weight: 13.6 kg",
     "currency": "INR",
     "price": 77499,
     "stock": "",
