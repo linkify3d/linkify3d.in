@@ -7,7 +7,7 @@
     "name": "A1",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "\n",
+    "description": "\nBambu Lab A1 – Specifications\nTechnology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nMax Speed: 500 mm/s\nMax Acceleration: 10,000 mm/s²\nNozzle Temperature: Up to 300°C\nHeatbed Temperature: Up to 100°C\nNozzle: 0.4 mm (Quick-Swap)\nLayer Height: 0.08–0.4 mm\nBuild Plate: Textured PEI Spring Steel\nCalibration: Fully Automatic\nExtruder: Direct Drive\nConnectivity: Wi-Fi / USB\nDisplay: 3.5\" Touchscreen\nCamera: Built-in\nFilament: PLA, PETG, TPU & more\nMulti-Color: Compatible with AMS lite\nDimensions: 385 × 410 × 430 mm\nWeight: Approx. 8.3 kg",
     "currency": "INR",
     "price": 28300,
     "stock": 15,
