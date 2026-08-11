@@ -908,8 +908,8 @@
     "series": "",
     "product_type": "Resin Printer",
     "description": "",
-    "currency": "",
-    "price": "",
+    "currency": "INR",
+    "price": 45000,
     "stock": "",
     "image_url": "",
     "active": ""
