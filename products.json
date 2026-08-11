@@ -472,7 +472,7 @@
     "name": "K1 MAX",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 300 × 300 × 300 mm\nMax Print Speed: 600 mm/s\nMax Acceleration: 20,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.1–0.35 mm\nExtruder: Dual-Gear Direct Drive\nNozzle Diameter: 0.4 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 120°C\nBuild Plate: Flexible Build Plate\nBed Leveling: Automatic\nMotion System: CoreXY\nAI Camera: Yes\nAI LiDAR: Yes\nFilament Runout Detection: Yes\nPower Loss Recovery: Yes\nConnectivity: Wi-Fi / Ethernet / USB\nDisplay: 4.3\" Color Touchscreen\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, PET, TPU, PA, ABS, ASA, PC, PLA-CF, PA-CF, PET-CF\nEnclosure: Fully Enclosed\nAir Purification: Yes\nSlicer: Creality Print\nPrinter Dimensions: 435 × 462 × 526 mm\nNet Weight: 18 kg\nRated Power: 1000 W",
     "currency": "INR",
     "price": 59999,
     "stock": "",
