@@ -652,7 +652,7 @@
     "name": "Mono M7 Pro",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA Resin 3D Printing\nLCD: 10.1\" 14K Monochrome LCD\nResolution: 13,320 × 5,120\nBuild Volume: 223 × 126 × 230 mm\nMax Print Speed: 170 mm/h with High-Speed Resin\nStandard Resin Speed: Up to 130 mm/h\nLayer Height: 0.01–0.15 mm\nXY Resolution: 16.8 × 24.8 μm\nLight Source: LighTurbo 3.0 – COB + Fresnel Lens\nLight Intensity: 5500 ±10% μW/cm²\nBuild Plate: Laser-Engraved\nZ-Axis: Dual Linear Rails, 10 μm Precision\nLeveling: Leveling-Free\nResin Vat Capacity: Up to 1 L\nResin Heating: Dynamic Temperature Control, 20–40°C\nAuto Resin Fill: Yes\nAuto Resin Withdrawal: Yes\nRelease Film: Improved ACF Film\nDisplay: 4.3\" Touchscreen\nConnectivity: Wi-Fi / LAN / USB\nSupported Resins: Standard, High-Speed, Water-Washable, ABS-Like, Plant-Based & more\nSlicer: Photon Workshop / CHITUBOX / Lychee Slicer\nPower: 240 W\nPrinter Dimensions: 312 × 315 × 520 mm\nNet Weight: 12.8 kg",
     "currency": "INR",
     "price": 57999,
     "stock": "",
