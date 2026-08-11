@@ -607,7 +607,7 @@
     "name": "S1 Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 250 × 250 × 250 mm\nMax Print Speed: 600 mm/s\nRecommended Speed: 300 mm/s\nMax Acceleration: 20,000 mm/s²\nLayer Height: 0.08–0.28 mm\nMax Nozzle Temperature: 320°C\nNozzle: 0.4 mm\nOptional Nozzles: 0.6 / 0.8 mm\nMax Heatbed Temperature: 120°C\nBuild Plate: PEI Spring Steel\nExtruder: Short-Distance Direct Extrusion\nBed Leveling: LeviQ 3.0 Auto-Leveling + Z-Offset\nMulti-Color Printing: 4 / 8 Colors\nMulti-Color System: ACE Pro\nActive Filament Drying: Up to 55°C\nSupported Filaments: PLA, PETG, TPU 95A, ABS, ASA\nFilament Detection: Yes\nTangle Detection: Yes\nAI Spaghetti Detection: Yes\nPower Loss Recovery: Yes\nObject Skip: Yes\nArea Leveling: Yes\nFlow Calibration: Yes\nConnectivity: Wi-Fi / USB / Anycubic App\nSlicer: Anycubic Slicer Next / OrcaSlicer\nFilament Diameter: 1.75 mm\nPrinter Dimensions: 400 × 410 × 490 mm\nPrinter Weight: Approx. 18 kg\nACE Pro Dimensions: 365.9 × 282.8 × 234.5 mm\nACE Pro Weight: Approx. 4.6 kg",
     "currency": "INR",
     "price": 59999,
     "stock": "",
