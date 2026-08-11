@@ -382,12 +382,12 @@
     "name": "jupiter 2",
     "series": "",
     "product_type": "Resin Printer",
-    "description": "",
+    "description": "Technology: MSLA Resin 3D Printing\nLCD: 14\" 16K Monochrome LCD\nResolution: 15,120 × 6,230\nXY Resolution: 20 × 26 μm\nBuild Volume: 302 × 162 × 300 mm\nMax Print Speed: Up to 90 mm/h\nLayer Thickness: 0.01–0.2 mm\nLight Source: COB + Fresnel Collimating Lens, 405 nm\nBuild Plate: Laser-Engraved\nLeveling: Automatic Multi-Point Leveling\nResin Tank: Smart Heating Tank, up to 30°C\nResin Management: Automatic Resin Feeding & Recycling\nResin Shortage Detection: Yes\nResin Temperature Detection: Yes\nCamera: Built-in Chamber Monitoring Camera\nDisplay: 4\" Capacitive Touchscreen\nConnectivity: Wi-Fi / USB\nPower Loss Recovery: Yes\nRelease Film: Modular Quick-Swap\nLCD: Modular Quick-Swap Design\nSlicer: ELEGOO SatelLite / CHITUBOX\nCompatible Resin: Standard, ABS-Like, Water-Washable, Plant-Based & more\nPrinter Design: Fully Enclosed, Double-Door\nFilament Diameter: N/A — Resin Printer",
     "currency": "INR",
     "price": 106000,
     "stock": "",
     "image_url": "https://static.wixstatic.com/media/a1e158_b9cf482b0736440ea2b2ac785dc0e3db~mv2.webp/v1/fit/w_1071,h_1071,q_90,enc_avif,quality_auto/a1e158_b9cf482b0736440ea2b2ac785dc0e3db~mv2.webp",
-    "active": ""
+    "active": 1
   },
   {
     "id": "PR005",
