@@ -562,7 +562,7 @@
     "name": "S1 Max combo ",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 350 × 350 × 350 mm\nMax Print Speed: 600 mm/s\nRecommended Speed: 300 mm/s\nMax Acceleration: 20,000 mm/s²\nLayer Height: 0.08–0.28 mm\nMax Nozzle Temperature: 350°C\nNozzle: 0.4 mm Hardened Steel\nOptional Nozzles: 0.25 / 0.6 / 0.8 mm\nMax Heatbed Temperature: 120°C\nChamber Temperature: Up to 65°C\nBuild Plate: PEI Spring Steel\nExtruder: Short-Distance Direct Extrusion\nBed Leveling: LeviQ 3.0 Automatic\nFilament Detection: Yes\nTangle Detection: Yes\nAI Spaghetti Detection: Yes\nPower Loss Recovery: Yes\nCamera: 720P HD Camera\nDisplay: 4.3\" Capacitive Touchscreen\nConnectivity: Wi-Fi / USB / Anycubic App\nSupported Filaments: PLA, PETG, TPU, PET, ABS, ASA, PC, PA, PLA-CF, PETG-CF, PA6-CF, PC-CF/GF & more\nMulti-Color: Up to 16 colors with ACE 2 Pro\nFilament Diameter: 1.75 mm\nSlicer: Anycubic Slicer Next / OrcaSlicer\nPrinter Dimensions: 502.7 × 483 × 584 mm\nNet Weight: Approx. 25.7 kg\nRated Power: 1000W (110V) / 2200W (220V)",
     "currency": "INR",
     "price": 89999,
     "stock": "",
