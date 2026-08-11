@@ -517,7 +517,7 @@
     "name": "3 v4 Combo",
     "series": "",
     "product_type": "FDM 3D Printer",
-    "description": "",
+    "description": "Technology: FDM / FFF\nBuild Volume: 220 × 220 × 235 mm\nMax Print Speed: 500 mm/s\nMax Acceleration: 12,000 mm/s²\nPrint Accuracy: ±0.1 mm\nLayer Height: 0.1–0.35 mm\nExtruder: Dual-Gear Direct Drive\nNozzle Diameter: 0.4 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 100°C\nBuild Plate: PEI\nBed Leveling: Full Automatic\nInput Shaping: Yes\nFilament Tangle Detection: Yes, with CFS\nAuto Filament Relay: Yes\nRFID Filament Recognition: Yes, with CFS\nMulti-Color: CFS Compatible\nCFS Expansion: Up to 4 CFS units / 16 colors\nConnectivity: Wi-Fi / USB / Creality Cloud\nDisplay: 2.8\" Color Touchscreen\nFilament Diameter: 1.75 mm\nSupported Filaments: Hyper-PLA, PLA, PETG, TPU 95A, ABS, ASA, PLA-CF, PA-CF\nPower Loss Recovery: Yes\nLighting Kit: Yes\nRated Power: 900 W\nStorage: 8 GB eMMC\nSlicer: Creality Print 6.0+\nPrinter Dimensions: 396 × 359 × 456 mm\nCombo Dimensions: 838 × 396 × 456 mm\nPrinter Net Weight: 6.8 kg",
     "currency": "INR",
     "price": 34399,
     "stock": "",
