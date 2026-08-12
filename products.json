@@ -1134,9 +1134,9 @@
     "product_type": "Filament",
     "description": "",
     "currency": "INR",
-    "price": "",
+    "price": 1300,
     "stock": "",
-    "image_url": "",
+    "image_url": "https://ideal3d.in/cdn/shop/files/WHITE_2_e8d56d97-4145-46c6-9745-3dc9303f2fe1.jpg?v=1768036589&width=810",
     "active": 1
   },
   {
