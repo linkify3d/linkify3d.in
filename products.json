@@ -1104,9 +1104,9 @@
     "product_type": "Filament",
     "description": "",
     "currency": "INR",
-    "price": "",
+    "price": 800,
     "stock": "",
-    "image_url": "",
+    "image_url": "https://static.wixstatic.com/media/9f634a_1ed30f14899244f086973c3584407bc3~mv2.webp/v1/fit/w_1024,h_1024,q_90,enc_avif,quality_auto/9f634a_1ed30f14899244f086973c3584407bc3~mv2.webp",
     "active": 1
   },
   {
