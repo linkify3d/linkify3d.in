@@ -1119,9 +1119,9 @@
     "product_type": "Filament",
     "description": "",
     "currency": "INR",
-    "price": "",
+    "price": 1300,
     "stock": "",
-    "image_url": "",
+    "image_url": "https://ideal3d.in/cdn/shop/files/PINE_GREEN_2.jpg?v=1768034781&width=810",
     "active": 1
   },
   {
