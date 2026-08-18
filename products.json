@@ -1567,7 +1567,7 @@
     "name": "CR-Scan Ferret 3D Scanner",
     "series": "",
     "product_type": "scanner",
-    "description": "",
+    "description": "Scanning Technology: NIR (Near-Infrared) Light\nAccuracy: Up to 0.10 mm\n3D Resolution / Point Distance: 0.16 mm\nScan Speed: Up to 30 FPS\nSingle Capture Range: 560 × 820 mm @ 700 mm\nWorking Distance: 150–700 mm\nMinimum Scan Size: 50 × 50 × 50 mm\nTracking: Visual Tracking\nAlignment: Feature / Marker / Color\nColor Scanning: Full-Color Texture Scanning\nOutdoor Scanning: Supported, including bright sunlight\nOutput Formats: STL, OBJ, PLY\nConnection: USB 2.0 / USB 3.0\nCompatible Systems: Windows, macOS, Android\nScanner Weight: 105 g\nScanner Dimensions: 120 × 30 × 26 mm\nPower: 5V / 1A",
     "currency": "INR",
     "price": 36999,
     "stock": "",
