@@ -1434,7 +1434,7 @@
     "product_type": "Resin",
     "description": "",
     "currency": "INR",
-    "price": "",
+    "price": 1400,
     "stock": "",
     "image_url": "",
     "active": 1
@@ -1449,7 +1449,7 @@
     "product_type": "Resin",
     "description": "",
     "currency": "INR",
-    "price": "",
+    "price": 1400,
     "stock": "",
     "image_url": "",
     "active": 1
