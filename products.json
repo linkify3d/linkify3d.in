@@ -1500,6 +1500,36 @@
     "active": 1
   },
   {
+    "id": "RE020",
+    "main_category": "Resins",
+    "brand": "SIRAYA TECH ",
+    "subcategory": "TENACIOUS -FLEXIBLE ",
+    "name": "clear ",
+    "series": "",
+    "product_type": "Resin",
+    "description": "Material: Flexible UV-Curing Photopolymer Resin\nNet Weight: 1 kg\nColor: Clear\nCuring Wavelength: 405 nm\nPrinter Compatibility: MSLA / LCD / DLP Resin 3D Printers\nShore Hardness: 65D\nTensile Strength: 28 MPa\nElongation at Break: 70%\nYoung’s Modulus: 800 MPa\nImpact Strength: 57 J/m\nHDT: 55°C\nLiquid Density: 1.1 g/cm³\nViscosity: 560 mPa·s @ 25°C",
+    "currency": "INR",
+    "price": 8000,
+    "stock": "",
+    "image_url": "https://static.wixstatic.com/media/a1e158_c8fdc0b90de34ea0877137135e9dbeef~mv2.webp/v1/fit/w_1200,h_1200,q_90,enc_avif,quality_auto/a1e158_c8fdc0b90de34ea0877137135e9dbeef~mv2.webp",
+    "active": 1
+  },
+  {
+    "id": "RE021",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
+  },
+  {
     "id": "AC001",
     "main_category": "Accessories",
     "brand": "",
