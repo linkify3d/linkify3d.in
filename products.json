@@ -1545,6 +1545,21 @@
     "active": 1
   },
   {
+    "id": "RE023",
+    "main_category": "Resins",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
+  },
+  {
     "id": "AC001",
     "main_category": "Accessories",
     "brand": "",
