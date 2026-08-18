@@ -1678,5 +1678,20 @@
     "stock": "",
     "image_url": "https://augment3di.com/wp-content/uploads/2025/12/Space_Pi_Filament_Dryer_Plus_1-1.webp",
     "active": 1
+  },
+  {
+    "id": "FD003",
+    "main_category": "Filament dry box ",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
   }
 ]
