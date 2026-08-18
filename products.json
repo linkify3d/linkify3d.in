@@ -1597,7 +1597,7 @@
     "name": "CR-Scan Ferret Pro 3D Scanner",
     "series": "",
     "product_type": "scanner",
-    "description": "",
+    "description": "Scanning Technology: NIR Infrared Structured Light\nAccuracy: Up to 0.10 mm\nResolution / Point Distance: 0.16 mm\nScan Speed: Up to 30 FPS\nSingle Capture Range: 560 × 820 mm @ 700 mm\nWorking Distance: 150–700 mm\nScan Size: 150–2000 mm\nMinimum Scan Size: 50 × 50 × 50 mm\nColor Scanning: 24-bit Full Color\nColor Camera: 2 MP\nAlignment: Geometry / Marker / Texture\nWireless: Wi-Fi 6\nOutput Formats: OBJ / STL / PLY\nCompatible Systems: Windows / macOS / iOS / Android\nBattery: 5000 mAh\nBattery Runtime: Up to 2.5 hours\nWeight: 105 g\nDimensions: 120 × 30 × 26 mm\nOutdoor Scanning: Supported up to 30,000 lux",
     "currency": "INR",
     "price": 46999,
     "stock": "",
