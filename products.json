@@ -1663,5 +1663,20 @@
     "stock": "",
     "image_url": "https://www.3idea.in/assets/images/products/171923272826.png",
     "active": 1
+  },
+  {
+    "id": "FD002",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
   }
 ]
