@@ -1627,7 +1627,7 @@
     "name": "Revopoint Metro-Y Pro 3D Scanner",
     "series": "",
     "product_type": "scanner",
-    "description": "",
+    "description": "Scanning Technology: Multi-Line Blue Laser + Full-Field Blue Structured Light\nScanning Type: Handheld & Desktop\nObject Size: Small to Medium\nSingle-Frame Accuracy: Up to 0.02 mm\nSingle-Frame Precision: Up to 0.01 mm\nVolumetric Accuracy: 0.02 mm + 0.04 mm × L (m)\nFused Point Distance: Up to 0.05 mm\nWorking Distance: 200–400 mm\nMinimum Scan Volume: 10 × 10 × 10 mm\nMaximum Scan Volume: 1 × 1 × 1 m\n\nScanning Speed:\n\nMulti-Line Laser: Up to 2,000,000 points/s\nFull-Field Structured Light: Up to 7,000,000 points/s\n\nScanning Modes: 5\n\n34 Blue Cross-Laser Lines\n15 Blue Parallel-Laser Lines\nSingle Blue Laser Line\nFull-Field Blue Structured Light\nAutomatic Turntable Scanning\n\nColor Scanning: Yes – Auto Turntable Mode\nRGB Camera: 2 MP\nConnectivity: USB Type-C + Wi-Fi 6\nOutput Formats: PLY, OBJ, STL, ASC, 3MF, GLTF, FBX\nSupported OS: Windows 10/11 64-bit, macOS 11.0+\nWeight: Approx. 450 g\nDimensions: 211 × 94 × 47 mm\nPower: DC 12V / 3A",
     "currency": "INR",
     "price": 219999,
     "stock": "",
