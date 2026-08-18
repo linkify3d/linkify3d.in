@@ -1612,7 +1612,7 @@
     "name": "Raptor 3D Scanner",
     "series": "",
     "product_type": "scanner",
-    "description": "",
+    "description": "Scanning Technology: Hybrid Blue Laser + NIR Infrared Structured Light\nBlue Laser: 7 Parallel Blue Laser Lines\nBlue Laser Accuracy: Up to 0.02 mm @ 100 mm\nNIR Accuracy: Up to 0.10 mm\nBlue Laser Scan Speed: Up to 60 FPS\nNIR Scan Speed: Up to 20 FPS\n3D Resolution: 0.02–2 mm (Blue Laser) / 0.1–2 mm (NIR)\nMinimum Scan Size: 5 × 5 × 5 mm\nWorking Distance: 150–400 mm (Blue Laser) / 170–1000 mm (NIR)\nColor Scanning: 24-bit Full Color\nAlignment: Marker / Geometry / Texture\nOutput Formats: OBJ / STL / PLY\nCamera Resolution: 1920 × 1200\nLaser Safety: Class I – Eye Safe\nIMU: Yes\nConnection: USB Type-C / USB 3.0\nInput Power: 12V / 2A\nWeight: 372 g\nDimensions: 215 × 50 × 74 mm\nSystem Support: Windows / macOS",
     "currency": "INR",
     "price": 147600,
     "stock": "",
