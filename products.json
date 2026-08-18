@@ -1708,5 +1708,20 @@
     "stock": "",
     "image_url": "https://ideal3d.in/cdn/shop/files/s2_dryer_box.png?v=1739271813&width=810",
     "active": 1
+  },
+  {
+    "id": "FD005",
+    "main_category": "Filament dry box ",
+    "brand": "",
+    "subcategory": "",
+    "name": "Sunlu Filament Dryer Box",
+    "series": "",
+    "product_type": "dry box ",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "https://ideal3d.in/cdn/shop/files/sunlu_dryer_box.webp?v=1732175250&width=1946",
+    "active": 1
   }
 ]
