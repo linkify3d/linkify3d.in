@@ -1642,7 +1642,7 @@
     "name": "Revopoint Metro-Y 3D Scanner",
     "series": "",
     "product_type": "scanner",
-    "description": "",
+    "description": "Scanning Technology: Multi-Line Blue Laser\nScanning Type: Handheld\nObject Size: Small to Medium\nSingle-Frame Accuracy: Up to 0.02 mm\nSingle-Frame Precision: Up to 0.01 mm\nVolumetric Accuracy: 0.02 mm + 0.04 mm × L (m)\nFused Point Distance: Up to 0.05 mm\nWorking Distance: 200–400 mm\nMinimum Scan Volume: 10 × 10 × 10 mm\nMaximum Scan Volume: 1 × 1 × 1 m\n\nScanning Speed: Up to 1,500,000 points/s\n\nScanning Modes:\n\n30 Blue Cross-Laser Lines\n15 Blue Parallel-Laser Lines\nSingle Blue Laser Line\n\nSingle Capture Area:\n\n123 × 130 mm @ 200 mm\n290 × 260 mm @ 400 mm\n\nColor Scanning: No\nAlignment: Marker / Global Marker\nRGB Camera: 2 MP\nWi-Fi: Wi-Fi 6\nOutput Formats: PLY, OBJ, STL, ASC, 3MF, GLTF, FBX\nCompatible OS: Windows 10/11 64-bit, macOS 11.0+\nConnection: USB Type-C to Type-C\nPower: DC 12V / 3A\nWeight: 447 g\nDimensions: 211 × 94 × 47 mm",
     "currency": "INR",
     "price": 179999,
     "stock": "",
