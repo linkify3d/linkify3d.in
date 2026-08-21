@@ -99,7 +99,7 @@
     "product_type": "FDM 3D Printer",
     "description": "Bambu Lab P1S – Specifications\nTechnology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nMax Speed: 500 mm/s\nMax Acceleration: 20,000 mm/s²\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 100°C\nNozzle: 0.4 mm Stainless Steel\nOptional Nozzles: 0.2 / 0.6 / 0.8 mm\nExtruder: Direct Drive, Steel Gears\nBuild Plate: Textured PEI\nCalibration: Automatic\nEnclosure: Fully Enclosed\nAir Filtration: Activated Carbon Filter\nCamera: 1280 × 720 Monitoring Camera\nConnectivity: Wi-Fi / USB\nFilament: PLA, PETG, TPU, PVA, PET, ABS, ASA; PA & PC capable\nMulti-Color: Compatible with AMS / AMS 2 Pro\nDimensions: 389 × 389 × 458 mm\nWeight: 12.95 kg\nPower: 1000 W @ 220 V",
     "currency": "INR",
-    "price": 48499,
+    "price": 50999,
     "stock": "",
     "image_url": "https://static.wixstatic.com/media/9f634a_6c80d718d87d4d199bdc2b5b15b1cd8a~mv2.jpg/v1/fit/w_1000,h_1000,q_90,enc_avif,quality_auto/9f634a_6c80d718d87d4d199bdc2b5b15b1cd8a~mv2.jpg",
     "active": 1
