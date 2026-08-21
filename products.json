@@ -114,7 +114,7 @@
     "product_type": "FDM 3D Printer",
     "description": "Technology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nMotion System: CoreXY\nExtruder: Direct Drive\nNozzle: 0.4 mm Stainless Steel\nOptional Nozzles: 0.2 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Build Plate Temperature: 100°C\nMax Print Speed: 500 mm/s\nMax Acceleration: 20,000 mm/s²\nLayer Height: 0.1–0.35 mm\nBuild Plate: Textured PEI Plate\nBed Leveling: Automatic\nEnclosure: Fully Enclosed\nCooling: Auxiliary + Part Cooling Fans\nAir Filtration: Activated Carbon Filter\nCamera: 1280 × 720 Monitoring Camera\nFilament Runout Sensor: Yes\nPower Loss Recovery: Yes\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU, PVA, PET, ABS, ASA, PA, PC\nMulti-Color Printing: Yes\nAMS: AMS Included\nMaximum Colors: 4 Colors per AMS; up to 16 Colors with 4 AMS units\nConnectivity: Wi-Fi / LAN / microSD\nDisplay: 2.7\" IPS Touchscreen\nSlicer: Bambu Studio / Bambu Handy\nPrinter Dimensions: 389 × 389 × 458 mm\nNet Weight: 12.95 kg\nPower: 100–240V AC, 50/60Hz\n\nCombo Includes: P1S 3D Printer + AMS (Automatic Material System) for automatic multi-color and multi-material printing.",
     "currency": "INR",
-    "price": 65499,
+    "price": 68999,
     "stock": "",
     "image_url": "https://static.wixstatic.com/media/9f634a_873edbf7136946cd8a0f79dfb504dab2~mv2.jpg/v1/fit/w_1000,h_1000,q_90,enc_avif,quality_auto/9f634a_873edbf7136946cd8a0f79dfb504dab2~mv2.jpg",
     "active": 1
