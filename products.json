@@ -174,7 +174,7 @@
     "product_type": "FDM 3D Printer",
     "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 340 × 320 × 340 mm\nExtruder: Closed-Loop PMSM Servo Extruder\nNozzle: Hardened Steel, 0.4 mm\nOptional Nozzles: 0.2 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 350°C\nMax Heatbed Temperature: 120°C\nMax Chamber Temperature: 65°C\nMax Toolhead Speed: 1000 mm/s\nMax Acceleration: 20,000 mm/s²\nLayer Height: 0.08–0.28 mm\nHotend Flow Rate: 40 mm³/s Standard / 65 mm³/s High-Flow\nBuild Plate: Textured PEI / Smooth PEI\nBed Leveling: Automatic\nFilament Cutter: Built-in\nFilament Diameter: 1.75 mm\nSupported Materials: PLA, PETG, TPU, PVA, BVOH, ABS, ASA, PC, PA, PET, PPS, PLA-CF, PETG-CF, PA-CF, PET-CF, PC-CF/GF & more\nMulti-Color Printing: Yes\nAMS: AMS 2 Pro Included\nCamera: 1080p Live View + Toolhead Camera\nFilament Runout Detection: Yes\nFilament Tangle Detection: Yes\nPower Loss Recovery: Yes\nAir Filtration: G3 Pre-filter + H12 HEPA + Activated Carbon\nDisplay: 5\" Touchscreen\nConnectivity: Wi-Fi / USB\nSlicer: Bambu Studio\nStorage: 8 GB eMMC\nPrinter Dimensions: 492 × 514 × 626 mm\nNet Weight: 30 kg\nPower: Up to 2050 W @ 220V / 1170 W @ 110V\n\nCombo Includes: H2S 3D Printer + AMS 2 Pro for automatic multi-color/multi-material printing and filament drying. The H2S supports up to 4 colors per AMS, with additional AMS units for expanded material capacity.",
     "currency": "INR",
-    "price": 167999,
+    "price": 176999,
     "stock": "",
     "image_url": "https://static.wixstatic.com/media/9f634a_40c48b1fc6ab4f3aaad15128add442f0~mv2.jpg/v1/fit/w_700,h_700,q_90,enc_avif,quality_auto/9f634a_40c48b1fc6ab4f3aaad15128add442f0~mv2.jpg",
     "active": 1
