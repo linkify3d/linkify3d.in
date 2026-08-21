@@ -249,7 +249,7 @@
     "product_type": "FDM 3D Printer",
     "description": "Bambu Lab H2D Pro – Specifications\nTechnology: FDM / FFF\nBuild Volume: 325 × 320 × 325 mm\nDual-Nozzle Printing: 300 × 320 × 325 mm\nTotal Dual-Nozzle Volume: 350 × 320 × 325 mm\nMax Speed: 1,000 mm/s\nMax Acceleration: 20,000 mm/s²\nMax Nozzle Temperature: 350°C\nMax Heatbed Temperature: 120°C\nMax Chamber Temperature: 65°C\nNozzle: 0.4 mm Tungsten Carbide\nSupported Nozzles: 0.2 / 0.4 / 0.6 / 0.8 mm\nExtruder: High-Precision PMSM Servo Motor\nMax Flow Rate: 40 mm³/s\nBuild Plate: Textured PEI / Smooth PEI\nCalibration: Automatic + Vision Encoder\nEnclosure: Fully Enclosed\nAir Filtration: G3 + H12 HEPA + Coconut-Shell Activated Carbon\nCamera: 1080p Live View + Nozzle/Toolhead Cameras\nDisplay: 5\" Touchscreen\nConnectivity: Wi-Fi + Ethernet\nEnterprise Wi-Fi: WPA2-Enterprise\nFilament: PLA, PETG, TPU, ABS, ASA, PC, PA, PET, PVA, BVOH & more\nCF/GF Materials: Supported\nFilament Diameter: 1.75 mm\nDimensions: 492 × 514 × 626 mm\nWeight: 31 kg\nAMS: AMS 2 Pro + AMS HT included\nStorage: 32 GB eMMC\nPower: Up to 2,200 W @ 220 V",
     "currency": "INR",
-    "price": 379999,
+    "price": 399999,
     "stock": "",
     "image_url": "https://static.wixstatic.com/media/a1e158_d117872f1f524d8e8f0b3d51f10302d2~mv2.jpg/v1/fit/w_1000,h_1000,q_90,enc_avif,quality_auto/a1e158_d117872f1f524d8e8f0b3d51f10302d2~mv2.jpg",
     "active": 1
