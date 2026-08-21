@@ -144,7 +144,7 @@
     "product_type": "FDM 3D Printer",
     "description": "Technology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nMotion System: CoreXY\nExtruder: DynaSense Direct Drive Extruder\nNozzle: 0.4 mm Quick-Swap\nOptional Nozzles: 0.2 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Heatbed Temperature: 110°C\nMax Print Speed: 600 mm/s\nMax Acceleration: 20,000 mm/s²\nBuild Plate: Textured PEI Flexible Steel Plate\nBed Leveling: Automatic\nFilament Cutter: Built-in\nFilament Diameter: 1.75 mm\nSupported Materials: PLA, PETG, TPU, ABS, ASA, PC, PA, PVA & CF/GF-Reinforced Materials\nMulti-Color Printing: Yes\nAMS: AMS 2 Pro Included\nMaximum Colors: 4 Colors per AMS; expandable with additional AMS units\nAMS Drying: Active Filament Drying\nCamera: 1080p High-Rate Camera\nFilament Runout Detection: Yes\nFilament Tangle Detection: Yes\nFilament Odometry: Yes\nDoor Sensor: Yes\nPower Loss Recovery: Yes\nActive Airflow System: Yes\nConnectivity: Wi-Fi / Bambu-Bus / USB\nDisplay: Touchscreen\nSlicer: Bambu Studio\nPrinter Dimensions: 389 × 389 × 458 mm\nNet Weight: Approx. 14.3 kg\n\nCombo Includes: P2S 3D Printer + AMS 2 Pro for multi-color printing and active filament drying. Bambu Lab lists the P2S with a 256 × 256 × 256 mm build volume, 300°C maximum nozzle temperature, 110°C maximum bed temperature, and support for 0.2–0.8 mm nozzles.",
     "currency": "INR",
-    "price": 89999,
+    "price": 94999,
     "stock": "",
     "image_url": "https://static.wixstatic.com/media/a1e158_202325e6ad8e42c19144fc5ae3eb1f4d~mv2.jpg/v1/fit/w_700,h_655,q_90,enc_avif,quality_auto/a1e158_202325e6ad8e42c19144fc5ae3eb1f4d~mv2.jpg",
     "active": 1
