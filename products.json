@@ -69,7 +69,7 @@
     "product_type": "FDM 3D Printer",
     "description": "Technology: FDM / FFF\nBuild Volume: 256 × 256 × 256 mm\nMotion System: Bed-Slinger\nHot End: All-Metal\nExtruder Gears: Steel\nNozzle: Stainless Steel, 0.4 mm\nOptional Nozzles: 0.2 / 0.6 / 0.8 mm\nMax Nozzle Temperature: 300°C\nMax Build Plate Temperature: 100°C\nMax Print Speed: 500 mm/s\nMax Acceleration: 10,000 mm/s²\nMax Hot End Flow: 28 mm³/s\nBuild Plate: Textured PEI / Smooth PEI / Cool Plate\nBed Leveling: Automatic\nFilament Cutter: Yes\nFilament Diameter: 1.75 mm\nSupported Filaments: PLA, PETG, TPU, PVA\nCamera: 1080p Monitoring Camera\nFilament Runout Sensor: Yes\nFilament Tangle Sensor: Yes\nPower Loss Recovery: Yes\nTimelapse: Supported\nConnectivity: Wi-Fi\nMulti-Color Printing: Yes\nAMS: AMS Lite Included\nColors: Up to 4 Colors\nDimensions: 385 × 410 × 430 mm\nNet Weight: 8.3 kg\n\nCombo Includes: A1 3D Printer + AMS Lite for automatic multi-color printing. ",
     "currency": "INR",
-    "price": 43500,
+    "price": 45999,
     "stock": "",
     "image_url": "https://robocraze.com/cdn/shop/files/Bambu_Lab_A1_Combo_3D_Printer_with_AMS_Lite_1000x.png?v=1753948117",
     "active": 1
