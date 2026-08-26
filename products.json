@@ -1753,5 +1753,20 @@
     "stock": "",
     "image_url": "https://www.3idea.in/assets/images/products/1744-Product-Image1.jpg",
     "active": 1
+  },
+  {
+    "id": "LE003",
+    "main_category": "Laser Engravers",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
   }
 ]
