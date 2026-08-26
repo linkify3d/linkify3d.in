@@ -1723,5 +1723,20 @@
     "stock": "",
     "image_url": "https://ideal3d.in/cdn/shop/files/sunlu_dryer_box.webp?v=1732175250&width=1946",
     "active": 1
+  },
+  {
+    "id": "LE001",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
   }
 ]
