@@ -1738,5 +1738,20 @@
     "stock": "",
     "image_url": "https://www.3idea.in/assets/images/products/1662-Product-Image1.jpg",
     "active": 1
+  },
+  {
+    "id": "LE002",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
   }
 ]
