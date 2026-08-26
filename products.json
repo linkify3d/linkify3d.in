@@ -1726,17 +1726,17 @@
   },
   {
     "id": "LE001",
-    "main_category": "Laser Engravers",
-    "brand": "Creality ",
-    "subcategory": "Falcon",
-    "name": "Creality CR-Laser Falcon 5W Laser Engraver & Cutter",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
     "series": "",
-    "product_type": "Laser Engravers",
-    "description": "The Creality CR-Laser Falcon 5W is a compact and precise diode laser engraver and cutter designed for makers, creators and small businesses. With a 5W laser, 0.06 × 0.06 mm fine laser spot and 400 × 415 mm working area, it delivers detailed engraving and efficient cutting on materials such as wood, leather, cardboard, bamboo and more.\n\nKey Features\n5W Optical Laser Power\n400 × 415 mm Working Area\n0.06 × 0.06 mm Fine Laser Spot\nUp to 10,000 mm/min Engraving Speed\nSupports LightBurn & LaserGRBL\nSuitable for Wood, Leather, Acrylic, Cardboard & More\nIdeal for DIY, Crafts, Personalization & Small Businesses",
+    "product_type": "",
+    "description": "",
     "currency": "",
-    "price": 22400,
+    "price": "",
     "stock": "",
-    "image_url": "https://www.3idea.in/assets/images/products/1662-Product-Image1.jpg",
-    "active": 1
+    "image_url": "",
+    "active": ""
   }
 ]
