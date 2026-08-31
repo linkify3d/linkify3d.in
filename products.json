@@ -774,7 +774,7 @@
     "product_type": "FDM 3D Printer",
     "description": "Technology: FDM / FFF\nMotion System: CoreXY\nBuild Volume: 270 × 270 × 270 mm\nToolheads: 4 Independent Toolheads\nMax Speed: 500 mm/s\nMax Acceleration: 20,000 mm/s²\nMax Nozzle Temperature: 300°C\nMax Bed Temperature: 100°C\nNozzle: 0.4 mm Stainless Steel\nMax Flow Rate: 32 mm³/s\nBuild Plate: Flexible PEI Steel Sheet\nFilament Diameter: 1.75 mm\nAuto Calibration: Yes\nVibration Compensation: Yes\nAutomatic Flow Compensation: Yes\nToolhead Offset Calibration: Yes\nFilament System: Automatic 4-Spool System\nRFID Filament Recognition: Yes\nFilament Runout Detection: Yes\nPower Loss Recovery: Yes\nCamera: 2MP Built-in Chamber Camera\nDisplay: 3.5\" Touchscreen\nConnectivity: Wi-Fi 2.4 GHz / USB\nStorage: 26 GB eMMC\nSupported Filaments: PLA, PETG, TPU, PVA, PCTG\nWith Top Cover: ABS, ASA, PA, PC, PET & more\nWith Hardened Steel Nozzle: CF/GF reinforced materials supported\nSlicer: Snapmaker Orca / OrcaSlicer\nFirmware: Klipper\nDimensions: 584 × 499 × 730 mm\nWeight: 18.2 kg\nMax Input Power: 1150 W (220–240V)",
     "currency": "INR",
-    "price": 117000,
+    "price": 107000,
     "stock": "",
     "image_url": "https://wol3d.blr1.cdn.digitaloceanspaces.com/wp-content/uploads/2026/04/03170447/1N.jpg.jpeg",
     "active": 1
