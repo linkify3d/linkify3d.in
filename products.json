@@ -1862,7 +1862,7 @@
   {
     "id": "WC003",
     "main_category": "Washing and Curing Station\r",
-    "brand": "Anycubic",
+    "brand": "Washing and Curing Station\r",
     "subcategory": " Wash & Cure 3.0",
     "name": " Wash & Cure 3.0",
     "series": "",
@@ -1873,5 +1873,20 @@
     "stock": "",
     "image_url": "https://static.wixstatic.com/media/9f634a_b2a3cc6335644be29820f21defe7ed65~mv2.jpg/v1/fit/w_713,h_713,q_90,enc_avif,quality_auto/9f634a_b2a3cc6335644be29820f21defe7ed65~mv2.jpg",
     "active": 1
+  },
+  {
+    "id": "WC004",
+    "main_category": "",
+    "brand": "",
+    "subcategory": "",
+    "name": "",
+    "series": "",
+    "product_type": "",
+    "description": "",
+    "currency": "",
+    "price": "",
+    "stock": "",
+    "image_url": "",
+    "active": ""
   }
 ]
